@@ -1,5 +1,5 @@
 # Neo4j Spliter
-Transfer part of your neo4j database with ease.
+Transfer part of your neo4j database with ease using [apoc](https://neo4j-contrib.github.io/neo4j-apoc-procedures/#_export_to_cypher_script).
 
 # Example run
 ```
